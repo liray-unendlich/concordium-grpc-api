@@ -4,7 +4,7 @@
 // 	protoc        v3.17.3
 // source: concordium_p2p_rpc.proto
 
-package __
+package concordium_p2p_rpc
 
 import (
 	context "context"
